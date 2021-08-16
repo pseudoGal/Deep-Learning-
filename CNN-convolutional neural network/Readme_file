@@ -1,4 +1,4 @@
-Visual Geometry Group, or VGG for short
+Oxfords Visual Geometry Group, or VGG for short
 
 The VGG() class takes a few arguments that may only interest you if you are looking to use
 the model in your own project, e.g. for transfer learning. For example:
